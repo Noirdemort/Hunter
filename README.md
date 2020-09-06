@@ -30,5 +30,5 @@ Like a global object shouldn't be called implicitly but like passed via paramete
 
 > Basically, State + Processor + Model -> Core Business Value
 
-## Feel free to tell me how this design is totally awful and a work of satan and how this opposes all good in the world, by creating a pull request or creating an issue.
+## Feel free to tell me how this design is totally awful and a work of evil and how this is against all good in the world, by creating a pull request or creating an issue.
 ## Also, it would be helpful if you could suggest improvements too.
