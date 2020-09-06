@@ -1,8 +1,5 @@
 # Hunter
 
-Access Level: PRIVAC
-
-
 This project tries to implement ![System Design](/sysdes.png).
 
 
