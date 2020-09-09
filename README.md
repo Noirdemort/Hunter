@@ -26,9 +26,16 @@ Ideally,
 	This part is quite nuanced and abstract, so take any liberty if required.
 
 NOTE: Functions shouldn't have side-effects, even state should be passed as a parameter.
-Like a global object shouldn't be called implicitly but like passed via parameter.
+Like a global object shouldn't be called implicitly but passed via parameter.
 
 > Basically, State + Processor + Model -> Core Business Value
+
+
+State: something the object has its current property
+Model: Representation of the object in a semantic manner (data class or struct)
+Processor: Takes in state and Model and process it based on described logic.
+
+____
 
 ## Feel free to tell me how this design is totally awful and a work of evil and how this is against all good in the world, by creating a pull request or creating an issue.
 ## Also, it would be helpful if you could suggest improvements too.
