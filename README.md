@@ -31,9 +31,14 @@ Like a global object shouldn't be called implicitly but passed via parameter.
 > Basically, State + Processor + Model -> Core Business Value
 
 
-**State**: something the object has its current property
-**Model**: Representation of the object in a semantic manner (data class or struct)
+**State**: Something the object has its current property or the global state value.
+
+
+**Model**: Representation of the object in a semantic manner (data class or struct).
+
+
 **Processor**: Takes in state and Model and process it based on described logic.
+
 
 ____
 
